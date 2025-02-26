@@ -1,4 +1,3 @@
 Algoritmo HolaMundo
-	Escribir "Hola Mundo"
-	
+	Escribir 'Hola Mundo'
 FinAlgoritmo
